@@ -1,0 +1,20 @@
+
+#content{
+	color: blue;
+}
+
+.col-md-5{
+	background-color: #f0f0f0;
+}
+
+#testing{
+	color: #3399FF;
+	font: Blippo, fantasy;
+	font-size: 200%;
+}
+
+#title{
+	color: #3399FF;
+	font: Blippo, fantasy;
+	font-size: 300%;
+}
